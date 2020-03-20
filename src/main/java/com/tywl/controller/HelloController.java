@@ -24,5 +24,10 @@ public class HelloController {
 
     //开发人员写了一句话
 
+    public void print()
+    {
+        System.out.println("Hello controller");
+    }
+
 
 }
